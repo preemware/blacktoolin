@@ -13,9 +13,9 @@ Automatically install BlackArch Linux tools
 
 # Installation
 - sudo su
-- git clone https://github.com/cameronpoe/blacktoolin.git && cp katoolin/blacktoolin.py /usr/bin/katoolin
+- git clone https://github.com/cameronpoe/blacktoolin.git && cp blacktoolin/blacktoolin.py /usr/bin/blacktoolin
 - chmod +x /usr/bin/blacktoolin
-- sudo katoolin 
+- sudo blacktoolin 
 
 # Usage
 - Typing the number of a tool will install it
