@@ -29,7 +29,5 @@ Before updating your system , please remove all BlackArch repositories to avoid 
 # Issues will be fixed asap. Pull Request Welcomed
 
 https://github.com/cameronpoe/blacktoolin/issues
-
-
-
+<br />
 ## Project based on https://github.com/LionSec/katoolin
