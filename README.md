@@ -1,6 +1,7 @@
 ![blacktoolin](https://i.postimg.cc/sDG8Jd1n/Screenshot-from-2018-10-16-17-28-47.png)
 # blacktoolin
-Automatically install BlackArch Linux tools
+Automatically install BlackArch Linux tools <br />
+Project does not have options for all BlackArch Tools visit https://www.blackarch.org/tools.html
 
 # Features
 - Add BlackArch repositories
