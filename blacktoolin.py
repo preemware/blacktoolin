@@ -285,7 +285,7 @@ M#########M                                MMMMMMMMMM
 \033[91m=+[ Vulnerability Analysis\033[1;m
 
  1) BBQSQL				18) Nmap
- 2) BED					19)ohrwurm
+ 2) BED					19) ohrwurm
  3) cisco-auditing-tool			20) openvas-administrator
  4) cisco-global-exploiter		21) openvas-cli
  5) cisco-ocs				22) openvas-manager
