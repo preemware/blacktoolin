@@ -16,7 +16,7 @@ M#       .;M dP `88888P8 `88888P' dP   `YP MMMM  MMMM `88888P' `88888P' dP dP dP
 M#########M                                MMMMMMMMMM                                  
                                                                                        \033[1;m
  \033[91m+ -- -- +=[ Author: Zayotic | Homepage: blog.zay.li\033[1;m
- \033[91m+ -- -- +=[ 331 Tools \033[1;m
+ \033[91m+ -- -- +=[ 333 Tools \033[1;m
 
 
 \033[1;91m[W] Before updating your system , please remove all blackarch repositories to avoid any kind of problem .\033[1;m
@@ -855,6 +855,7 @@ M#########M                                MMMMMMMMMM
 15) sqlmap
 16) THC-IPV6
 17) Yersinia
+18) Metasploit
 
 0) Install all Exploitation Tools
 				 
@@ -901,6 +902,8 @@ M#########M                                MMMMMMMMMM
 								cmd = os.system("pacman -S thc-ipv6")
 							elif opcion2 == "17":
 								cmd = os.system("pacman -S yersinia")
+							elif opcion2 == "18":
+								cmd = os.system("pacman -S metasploit")
 							elif opcion2 == "back":
 								inicio()
 							elif opcion2 == "gohome":
