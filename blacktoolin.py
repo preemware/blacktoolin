@@ -909,7 +909,7 @@ M#########M                                MMMMMMMMMM
 							elif opcion2 == "gohome":
 								inicio1()   
 							elif opcion2 == "0":
-								cmd = os.system("pacman -S armitage backdoor-factory cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch commix crackle jboss-autopwn linux-exploit-suggester maltego set shellnoob sqlmap thc-ipv6 yersinia beef")  						
+								cmd = os.system("pacman -S armitage backdoor-factory cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch commix crackle jboss-autopwn linux-exploit-suggester maltego set shellnoob sqlmap thc-ipv6 yersinia beef metasploit")  						
 							else:
 								print ("\033[1;31mSorry, that was an invalid command!\033[1;m")
 
