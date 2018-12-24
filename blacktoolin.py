@@ -102,7 +102,7 @@ M#########M                                MMMMMMMMMM
 0) All
 
 			 ''')
-						print ("\033[1;32mSelect a category or press (0) to install all Kali linux tools .\n\033[1;m")
+						print ("\033[1;32mSelect a category or press (0) to install all BlackArch linux tools .\n\033[1;m")
 						if sys.version_info[0] < 3:
 							opcion1 = raw_input("\033[91mbt > \033[1;m")
 						else:
