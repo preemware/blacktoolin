@@ -13,7 +13,7 @@ Automatically install BlackArch Linux tools
 
 # Installation
 - sudo su
-- git clone https://github.com/cameronpoe/blacktoolin.git && cp blacktoolin/blacktoolin.py /usr/bin/blacktoolin
+- git clone https://github.com/zayotic/blacktoolin.git && cp blacktoolin/blacktoolin.py /usr/bin/blacktoolin
 - chmod +x /usr/bin/blacktoolin
 - sudo blacktoolin 
 
@@ -29,6 +29,6 @@ Project does not have options for all BlackArch Tools visit https://www.blackarc
 
 # Issues will be fixed asap. Pull Request Welcomed
 
-https://github.com/cameronpoe/blacktoolin/issues
+https://github.com/zayotic/blacktoolin/issues
 <br />
 ## Project based on https://github.com/LionSec/katoolin
