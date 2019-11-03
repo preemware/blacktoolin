@@ -112,7 +112,7 @@ M#########M                                MMMMMMMMMM
 						elif opcion1 == "gohome":
 							inicio1()
 						elif opcion1 == "0":
-							cmd = os.system("pacman -S acccheck ace amap tekdefense-automater braa casefile cdpsnarf cisco-torch cookie-cadger cisco-router-config dmitry dnmap dnsenum dnsmap dnsrecon dnstracer dnswalk dotdotpwn enum4linux enumiax exploitdb fierce forager firewalk flashlight bing-ip2hosts ghost-phisher golismero goofile lbd maltego masscan metagoofil machinae nmap p0f parsero recon-ng set smtp-user-enum snmpcheck sslcaudit sslsplit sslstrip sslyze thc-ipv6 theharvester tlssled twofi urlcrazy wireshark-qt wol-e xplico inundator intrace hping bbqsql bed cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch cisco-router-config doona dotdotpwn greenbone-security-assistant hexorbase jsql-injection lynis nmap ohrwurm openvas-cli openvas-manager openvas-scanner oscanner powerfuzzer sfuzz sidguesser ntop dbpwaudit commix siparmyknife sqlmap sqlninja sqlsus thc-ipv6 tnscmd unix-privesc-check yersinia aircrack-ng asleap bluelog blueranger bluesnarfer bully cowpatty crackle eapmd5pass fern-wifi-cracker ghost-phisher giskismet gqrx kalibrate-rtl killerbee kismet mdk3 mfcuk mfoc mitmap multimon-ng pixiewps reaver redfang spooftooph wifi-honey wifitap wifite apache-users arachni bbqsql blindelephant burpsuite cutycapt davtest deblaze dirb dirbuster fimap fuxploider grabber jboss-autopwn joomscan jsql-injection maltego padbuster paros parsero plecost powerfuzzer proxyscan recon-ng skipfish sqlmap sqlninja sqlsus uatester uniscan vega w3af webscarab websploit wfuzz wpscan xsser zaproxy burpsuite dnschef fiked hamster hexinject iaxflood inviteflood inundator mitmproxy ohrwurm protos-sip rebind responder rtpbreak sipffer snapception sctpscan siparmyknife sipp sipvicious sniffjoke sslsplit sslstrip thc-ipv6 voiphopper webscarab wifi-honey wireshark-qt xspy yersinia zaproxy cymothoa dbd dns2tcp httptunnel intersect nishang polenum powersploit pwnat ridenum sbd u3-pwn webshells weevely casefile cutycapt dos2unix dradis keepnote magictree metagoofil nipper pipal armitage backdoor-factory cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch crackle jboss-autopwn linux-exploit-suggester maltego set shellnoob sqlmap thc-ipv6 yersinia beef binwalk bulk-extractor chntpw cuckoo dc3dd ddrescue dumpzilla extundelete foremost galleta guymager iphoneanalyzer p0f pdf-parser pdfid pdgmail peepdf volatility xplico dhcpig fuxploider iaxflood inviteflood ipv6toolkit mdk3 reaver rtp-flood slowhttptest t50 termineter thc-ipv6 thc-ssl-dos acccheck burpsuite cewl chntpw cisco-auditing-tool cmospwd creddump crunch findmyhash hashcat hashid hexorbase john johnny keimpx maltego maskprocessor cryptohazemultiforcer ncrack oclhashcat pack patator polenum rainbowcrack rcracki-mt rsmangler statsprocessor thc-pptp-bruter truecrack webscarab zaproxy android-apktool dex2jar disitool edb-debugger jad javasnoop radare2 ollydbg smali valgrind yara android-sdk android-apktool arduino dex2jar sakis3g smali bing-ip2hosts")	
+							cmd = os.system("pacman -S acccheck ace amap tekdefense-automater braa casefile cdpsnarf cisco-torch cookie-cadger cisco-router-config dmitry dnmap dnsenum dnsmap dnsrecon dnstracer dnswalk dotdotpwn enum4linux enumiax exploitdb fierce forager firewalk flashlight bing-ip2hosts ghost-phisher golismero goofile lbd maltego masscan metagoofil machinae nmap p0f parsero recon-ng set smtp-user-enum snmpcheck sslcaudit sslsplit sslstrip sslyze thc-ipv6 theharvester tlssled twofi urlcrazy wireshark-qt wol-e xplico inundator intrace hping bbqsql bed cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch cisco-router-config doona dotdotpwn greenbone-security-assistant hexorbase jsql-injection lynis nmap ohrwurm openvas oscanner powerfuzzer sfuzz sidguesser ntop dbpwaudit commix siparmyknife sqlmap sqlninja sqlsus thc-ipv6 tnscmd unix-privesc-check yersinia aircrack-ng asleap bluelog blueranger bluesnarfer bully cowpatty crackle eapmd5pass fern-wifi-cracker ghost-phisher giskismet gqrx kalibrate-rtl killerbee kismet mdk3 mfcuk mfoc mitmap multimon-ng pixiewps reaver redfang spooftooph wifi-honey wifitap wifite apache-users arachni bbqsql blindelephant burpsuite cutycapt davtest deblaze dirb dirbuster fimap fuxploider grabber jboss-autopwn joomscan jsql-injection maltego padbuster paros parsero plecost powerfuzzer proxyscan recon-ng skipfish sqlmap sqlninja sqlsus uatester uniscan vega w3af webscarab websploit wfuzz wpscan xsser zaproxy burpsuite dnschef fiked hamster hexinject iaxflood inviteflood inundator mitmproxy ohrwurm protos-sip rebind responder rtpbreak sipffer snapception sctpscan siparmyknife sipp sipvicious sniffjoke sslsplit sslstrip thc-ipv6 voiphopper webscarab wifi-honey wireshark-qt xspy yersinia zaproxy cymothoa dbd dns2tcp httptunnel intersect nishang polenum powersploit pwnat ridenum sbd u3-pwn webshells weevely casefile cutycapt dos2unix dradis-ce magictree metagoofil nipper pipal armitage backdoor-factory cisco-auditing-tool cisco-global-exploiter cisco-ocs cisco-torch crackle jboss-autopwn linux-exploit-suggester maltego set shellnoob sqlmap thc-ipv6 yersinia beef binwalk bulk-extractor chntpw cuckoo dc3dd ddrescue dumpzilla extundelete foremost galleta guymager iphoneanalyzer p0f pdf-parser pdfid pdgmail peepdf volatility xplico dhcpig fuxploider iaxflood inviteflood ipv6toolkit mdk3 reaver rtp-flood slowhttptest t50 termineter thc-ipv6 thc-ssl-dos acccheck burpsuite cewl chntpw cisco-auditing-tool cmospwd creddump crunch findmyhash hashcat hashid hexorbase john johnny keimpx maltego maskprocessor cryptohazemultiforcer ncrack oclhashcat pack patator polenum rainbowcrack rcracki-mt rsmangler statsprocessor thc-pptp-bruter truecrack webscarab zaproxy android-apktool dex2jar disitool edb-debugger jad javasnoop radare2 ollydbg smali valgrind yara android-sdk android-apktool arduino dex2jar sakis3g smali bing-ip2hosts")	
 						while opcion1 == "1":
 							print ('''
 \033[91m=+[ Information Gathering\033[1;m
@@ -286,22 +286,22 @@ M#########M                                MMMMMMMMMM
 
  1) BBQSQL				18) Nmap
  2) BED					19) ohrwurm
- 3) cisco-auditing-tool			20) openvas-administrator
- 4) cisco-global-exploiter		21) openvas-cli
- 5) cisco-ocs				22) openvas-manager
- 6) cisco-torch				23) openvas-scanner
- 7) copy-router-config			24) Oscanner
- 8) commix				25) Powerfuzzer
- 9) DBPwAudit				26) sfuzz
-10) DoonaDot				27) SidGuesser
-11) DotPwn				28) SIPArmyKnife
-12) Greenbone Security Assistant 	29) sqlmap
-13) GSD					30) Sqlninja
-14) HexorBase				31) sqlsus
-15) Inguma				32) THC-IPV6
-16) jSQL				33) tnscmd
-17) Lynis				34) unix-privesc-check
-					35) Yersinia
+ 3) cisco-auditing-tool			20) openvas
+ 4) cisco-global-exploiter		21) Oscanner
+ 5) cisco-ocs				22) Powerfuzzer
+ 6) cisco-torch				23) sfuzz
+ 7) copy-router-config			24) SidGuesser
+ 8) commix				25) SIPArmyKnife
+ 9) DBPwAudit				26) sqlmap
+10) DoonaDot				27) Sqlninja
+11) DotPwn				28) sqlsus
+12) Greenbone Security Assistant 	29) THC-IPV6
+13) GSD					30) tnscmd
+14) HexorBase				31) unix-privesc-check
+15) Inguma				32) Yersinia
+16) jSQL				
+17) Lynis				
+					
 
 0) Install all Vulnerability Analysis tools
 				 
@@ -350,36 +350,30 @@ M#########M                                MMMMMMMMMM
 							elif opcion2 == "19":
 								cmd = os.system("pacman -S ohrwurm")
 							elif opcion2 == "20":
-								cmd = os.system("pacman -S openvas-administrator")
+								cmd = os.system("pacman -S openvas")
 							elif opcion2 == "21":
-								cmd = os.system("pacman -S openvas-cli")
-							elif opcion2 == "22":
-								cmd = os.system("pacman -S openvas-manager")
-							elif opcion2 == "23":
-								cmd = os.system("pacman -S openvas-scanner")
-							elif opcion2 == "24":
 								cmd = os.system("pacman -S oscanner")
-							elif opcion2 == "25":
+							elif opcion2 == "22":
 								cmd = os.system("pacman -S powerfuzzer")
-							elif opcion2 == "26":
+							elif opcion2 == "23":
 								cmd = os.system("pacman -S sfuzz")
-							elif opcion2 == "27":
+							elif opcion2 == "24":
 								cmd = os.system("pacman -S sidguesser")
-							elif opcion2 == "28":
+							elif opcion2 == "25":
 								cmd = os.system("pacman -S siparmyknife")
-							elif opcion2 == "29":
+							elif opcion2 == "26":
 								cmd = os.system("pacman -S sqlmap")
-							elif opcion2 == "30":
+							elif opcion2 == "27":
 								cmd = os.system("pacman -S sqlninja")
-							elif opcion2 == "31":
+							elif opcion2 == "28":
 								cmd = os.system("pacman -S sqlsus")
-							elif opcion2 == "32":
+							elif opcion2 == "29":
 								cmd = os.system("pacman -S thc-ipv6")
-							elif opcion2 == "33":
+							elif opcion2 == "30":
 								cmd = os.system("pacman -S tnscmd")
-							elif opcion2 == "34":
+							elif opcion2 == "31":
 								cmd = os.system("pacman -S unix-privesc-check")
-							elif opcion2 == "35":
+							elif opcion2 == "32":
 								cmd = os.system("pacman -S yersinia")
 							elif opcion2 == "back":
 								inicio()
@@ -790,12 +784,11 @@ M#########M                                MMMMMMMMMM
 1) CaseFile
 2) CutyCapt
 3) dos2unix
-4) Dradis
-5) KeepNote	
-6) MagicTree
-7) Metagoofil
-8) Nipper
-9) pipal
+4) Dradis	
+5) MagicTree
+6) Metagoofil
+7) Nipper
+8) pipal
 
 0) Install all Reporting Tools
 				 
@@ -814,23 +807,21 @@ M#########M                                MMMMMMMMMM
 							elif opcion2 == "3":
 								cmd = os.system("pacman -S dos2unix")
 							elif opcion2 == "4":
-								cmd = os.system("pacman -S dradis")
+								cmd = os.system("pacman -S dradis-ce")
 							elif opcion2 == "5":
-								cmd = os.system("pacman -S keepnote")
-							elif opcion2 == "6":
 								cmd = os.system("pacman -S magictree")
-							elif opcion2 == "7":
+							elif opcion2 == "6":
 								cmd = os.system("pacman -S metagoofil")
-							elif opcion2 == "8":
+							elif opcion2 == "7":
 								cmd = os.system("pacman -S nipper")
-							elif opcion2 == "9":
+							elif opcion2 == "8":
 								cmd = os.system("pacman -S pipal")
 							elif opcion2 == "back":
 								inicio()
 							elif opcion2 == "gohome":
 								inicio1()   
 							elif opcion2 == "0":
-								cmd = os.system("pacman -S casefile cutycapt dos2unix dradis keepnote magictree metagoofil nipper pipal")  
+								cmd = os.system("pacman -S casefile cutycapt dos2unix dradis-ce magictree metagoofil nipper pipal")  
 							else:
 								print ("\033[1;31mSorry, that was an invalid command!\033[1;m")
 
