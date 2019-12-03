@@ -1,5 +1,5 @@
-![blacktoolin](https://i.postimg.cc/sDG8Jd1n/Screenshot-from-2018-10-16-17-28-47.png)
-# blacktoolin
+![blacktoolin](https://postimg.cc/Lhg26X60)
+# darkarch
 Automatically install BlackArch Linux tools
 
 # Features
@@ -13,9 +13,9 @@ Automatically install BlackArch Linux tools
 
 # Installation
 - sudo su
-- git clone https://github.com/zayotic/blacktoolin.git && cp blacktoolin/blacktoolin.py /usr/bin/blacktoolin
-- chmod +x /usr/bin/blacktoolin
-- sudo blacktoolin 
+- git clone https://github.com/callmezatiel/darkarch && cp darkarch/darkarch.py /usr/bin/darkarch
+- chmod +x /usr/bin/darkarch
+- sudo darkarch
 
 # Usage
 - Typing the number of a tool will install it
@@ -29,6 +29,6 @@ Project does not have options for all BlackArch Tools visit https://www.blackarc
 
 # Issues will be fixed asap. Pull Request Welcomed
 
-https://github.com/zayotic/blacktoolin/issues
+https://github.com/callmezatiel/darkarch/pulls
 <br />
-## Project based on https://github.com/LionSec/katoolin
+## Project based on https://github.com/zayotic/blacktoolin
