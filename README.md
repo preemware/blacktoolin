@@ -1,4 +1,4 @@
-![blacktoolin](https://postimg.cc/Lhg26X60)
+[![darkarch.png](https://i.postimg.cc/Y2b9RLck/darkarch.png)](https://postimg.cc/Lhg26X60)
 # darkarch
 Automatically install BlackArch Linux tools
 
