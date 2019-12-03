@@ -1,5 +1,5 @@
-[![darkarch.png](https://i.postimg.cc/Y2b9RLck/darkarch.png)](https://postimg.cc/Lhg26X60)
-# darkness
+[![darkarch.png](https://i.postimg.cc/Y2b9RLck/darkarch.png)]
+# Darkness
 Automatically install BlackArch Linux tools
 
 # Features
@@ -30,5 +30,4 @@ Project does not have options for all BlackArch Tools visit https://www.blackarc
 # Issues will be fixed asap. Pull Request Welcomed
 
 https://github.com/callmezatiel/darkness/issues
-<br />
-Project based on https://github.com/zayotic/blacktoolin
+
