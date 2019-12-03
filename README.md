@@ -1,5 +1,5 @@
 [![darkarch.png](https://i.postimg.cc/Y2b9RLck/darkarch.png)](https://postimg.cc/Lhg26X60)
-# darkarch
+# darkness
 Automatically install BlackArch Linux tools
 
 # Features
@@ -13,9 +13,9 @@ Automatically install BlackArch Linux tools
 
 # Installation
 - sudo su
-- git clone https://github.com/callmezatiel/darkarch && cp darkarch/darkarch.py /usr/bin/darkarch
-- chmod +x /usr/bin/darkarch
-- sudo darkarch
+- git clone https://github.com/callmezatiel/darkness && cp darkarch/darkness.py /usr/bin/darkness
+- chmod +x /usr/bin/darkness
+- sudo darkness
 
 # Usage
 - Typing the number of a tool will install it
@@ -29,6 +29,6 @@ Project does not have options for all BlackArch Tools visit https://www.blackarc
 
 # Issues will be fixed asap. Pull Request Welcomed
 
-https://github.com/callmezatiel/darkarch/pulls
+https://github.com/callmezatiel/darkness/issues
 <br />
-## Project based on https://github.com/zayotic/blacktoolin
+Project based on https://github.com/zayotic/blacktoolin
