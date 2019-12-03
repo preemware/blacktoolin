@@ -15,7 +15,7 @@ M#  MMMM'  M 88 88.  .88 88.  ... 88  `8b. MMMM  MMMM 88.  .88 88.  .88 88 88 88
 M#       .;M dP `88888P8 `88888P' dP   `YP MMMM  MMMM `88888P' `88888P' dP dP dP    dP 
 M#########M                                MMMMMMMMMM                                  
                                                                                        \033[1;m
- \033[91m+ -- -- +=[ Author: Zayotic | Homepage: blog.zay.li\033[1;m
+ \033[91m+ -- -- +=[ Author: Zatiel And Zayotic | Homepage: patreon.com/zatiel\033[1;m
  \033[91m+ -- -- +=[ 333 Tools \033[1;m
 
 
