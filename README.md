@@ -12,7 +12,7 @@ Automatically install BlackArch Linux tools
 
 # Requirements
 - Python 2 or 3
-- An operating system (tested on Arch and Manjaro)
+- An Arch Linux operating system
 
 # Installation
 ```
