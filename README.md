@@ -15,16 +15,22 @@ Automatically install BlackArch Linux tools
 - An operating system (tested on Arch and Manjaro)
 
 # Installation
+```
 - sudo su
 - git clone https://github.com/callmezatiel/darkness && cp darkarch/darkness.py /usr/bin/darkness
 - chmod +x /usr/bin/darkness
 - sudo darkness
 
+```
+
 # Usage
 - Typing the number of a tool will install it
-- Typing 0 will install all BlackArch tools
-- back : Go back
-- gohome : Go to the main menu
+
+| Usage |
+| ------ | ------ |
+| Typing "0"  |  will install all BlackArch tools|
+| back |  Go back|
+| gohome  |   Go to the main menu |
 
 # Warning
 Before updating your system , please remove all BlackArch repositories to avoid any kind of problem .<br />
