@@ -25,8 +25,9 @@ Automatically install BlackArch Linux tools
 
 # Usage
 - Typing the number of a tool will install it
+
 | ------ | ------ |
-| Typing "0"  |  will install all BlackArch tools|
+| Typing 0  |  will install all BlackArch tools|
 | back |  Go back|
 | gohome  |   Go to the main menu |
 
