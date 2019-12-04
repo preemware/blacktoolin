@@ -1,4 +1,4 @@
-## Darkness
+# Darkness
 Automatically install BlackArch Linux tools
 
 ![Linux-2019-12-03-19-57-47.png](https://i.postimg.cc/X730rWxh/Linux-2019-12-03-19-57-47.png)
