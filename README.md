@@ -26,16 +26,11 @@ Automatically install BlackArch Linux tools
 # Usage
 - Typing the number of a tool will install it
 
+| typing| Usage |
 | ------ | ------ |
-| Typing 0  |  will install all BlackArch tools|
-| back |  Go back|
-| gohome  |   Go to the main menu |
-
-| Dependencies| Usage |
-| ------ | ------ |
-| yay |  Yet another yogurt. Pacman wrapper and AUR helper written in go. (Non-optional) |
-| git |  The fast distributed version control system (Non-optional) |
-| wget |  Network utility to retrieve files from the Web (Non-optional) |
+| 0 |  will install all BackArch tools |
+| back |  Go back |
+| home |  Go to the main menu |
 
 # Warning
 Before updating your system , please remove all BlackArch repositories to avoid any kind of problem .<br />
